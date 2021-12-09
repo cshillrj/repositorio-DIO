@@ -1,0 +1,61 @@
+body{
+    background: rgb(204, 204, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.imagem1{
+    border-radius: 100px;
+}
+
+#title, .subtitle, .postTitle{
+    color: rgb(73, 73, 73);
+}
+
+#title{
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: line-through;
+    color: rgb(73, 73, 73);
+}
+
+.postTitle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    /* VIZUALIZANDO O BOX MODEL */
+    background: white;
+    padding: 15px;
+    border: 3px solid rgb(73, 73, 73);
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact li a{
+    text-decoration: none;
+}
