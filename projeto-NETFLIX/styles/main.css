@@ -1,0 +1,128 @@
+:root{
+    --red: #E50914;
+    --black: #141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--black);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 0 12px 0;
+}
+
+.container .canto{
+    margin-left: 700px;
+}
+
+.canto i{
+    margin-right: 10px;
+    
+}
+
+header .logo{
+    color: var(--red);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+header nav{
+    margin-left: 40px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+header nav a:hover{
+    color: #AAA;
+    transition: .3s ease all;
+}
+
+
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(/img/capa-house.jpg);
+    background-size: cover;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.descricao{
+    font-size: 22px;
+}
+
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.botao{
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 20px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .3s ease all;
+    
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.botao i{   
+    margin-right: 5px;
+}
+
+.container{
+    margin-left: 50px;
+}
+
+.filme-principal .container{
+    width: 500px;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+}
+
+.titulo-carrosel{
+    padding: 0 0 20px 0;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.carrosel-filmes{
+    margin-left: 60px;
+}
