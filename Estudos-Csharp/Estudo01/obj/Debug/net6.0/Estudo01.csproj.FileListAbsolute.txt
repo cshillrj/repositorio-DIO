@@ -1,0 +1,15 @@
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\bin\Debug\net6.0\Estudo01.exe
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\bin\Debug\net6.0\Estudo01.deps.json
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\bin\Debug\net6.0\Estudo01.runtimeconfig.json
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\bin\Debug\net6.0\Estudo01.dll
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\bin\Debug\net6.0\ref\Estudo01.dll
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\bin\Debug\net6.0\Estudo01.pdb
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.csproj.AssemblyReference.cache
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.AssemblyInfoInputs.cache
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.AssemblyInfo.cs
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.csproj.CoreCompileInputs.cache
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.dll
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\ref\Estudo01.dll
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.pdb
+C:\MEUS ARQUIVOS\repositorio-DIO\Estudos-Csharp\Estudo01\obj\Debug\net6.0\Estudo01.genruntimeconfig.cache
